@@ -1,5 +1,5 @@
 # Pomodoro timer in C language - Version 1.0
-Made by Maxime B. - maxime-brgt.me
+Made by Maxime B. - http://maxime-brgt.me
 # Usage
 To compile it :
 ```

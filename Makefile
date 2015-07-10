@@ -4,14 +4,14 @@
 ## Made by Maxime B. (website : maxime-brgt.me)
 ## 
 ## Started on Fri Jul 10 12:35:25 2015 Maxime B.
-## Last update Fri Jul 10 12:43:27 2015 Maxime B.
+## Last update Fri Jul 10 14:30:46 2015 Maxime B.
 ##
 
 CC	=	gcc
 
 CFLAGS	+=	-Wall -Wextra -I./include/
 
-NAME	=	pomodoro_timer
+NAME	=	pomodoro-timer
 
 SRC	=	src/pomodoro.c
 

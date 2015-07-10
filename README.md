@@ -10,3 +10,5 @@ Then just launch it like this :
 ./pomodoro-timer
 ```
 You can change the parameters by modifying values in ./include/pomodoro.h
+# Requirements
+The package "beep" must be install on your system.

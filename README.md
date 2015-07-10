@@ -7,6 +7,6 @@ make pomodoro-timer
 ```
 Then just launch it like this :
 ```
-	./pomodoro-timer
+./pomodoro-timer
 ```
 You can change the parameters by modifying values in ./include/pomodoro.h

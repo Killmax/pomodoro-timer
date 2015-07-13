@@ -4,7 +4,7 @@
 ** Made by Maxime B. (website : maxime-brgt.me)
 ** 
 ** Started on Thu Jul  9 17:12:42 2015 Maxime B.
-** Last update Fri Jul 10 12:35:14 2015 Maxime B.
+** Last update Mon Jul 13 17:53:22 2015 Maxime B.
 */
 
 #include	<unistd.h>
@@ -35,6 +35,7 @@ void		end_check(bool *is_break, int *count_p, bool *is_lb)
     {
       printf("\033[1;42mBreak time !\n");
       (*is_break) = true;
+      (*is_lb) = false;
       (*count_p)++;
     }
 }
